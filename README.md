@@ -12,12 +12,12 @@ Security Feature -
 Login Details-
 
 USER - 
-user@user.com
-user123
+email: user@user.com
+pass: user123
 
 ADMIN -
-admin@admin.com
-admin123
+email: admin@admin.com
+pass: admin123
 
 
 
