@@ -1,0 +1,54 @@
+.navbar, .myfooter{background:url('../img/bg-t.png') #111827;}
+footer a{text-decoration: none;color: #fff;}
+.navbar a:hover, footer a:hover{color:#24D9B3; transition: 0.6s;}
+.theme-font{
+    color: #24D9B3 !important;
+}
+.theme-button{background:#24D9B3;color:#fff;}
+.theme-login{background:#24D9B3;color:#fff;}
+
+.theme-button:hover{
+    border-color: #fff;
+    color: #24D9B3 !important;
+    transition: 0.6s;
+    background-color: #fff;
+}
+.btn-white{
+    border-color: #fff;
+    color: #fff !important;
+}
+.btn-white:hover{
+    border-color: #24D9B3;
+    color: #fff !important;
+    transition: 0.6s;
+    background-color: #24D9B3;
+}
+.header-hero button:hover{color:#24D9B3;}
+
+.container-vcenter{
+    margin-top: 5vh;
+}
+.bg-ninja{
+    background: #2cdd9b;
+    background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+    background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+    background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+    background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%);
+}
+.card-head{
+    margin-top:-30px;
+    background: #2cdd9b;
+    background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+    background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+    background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+    background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%)
+}
+
+footer{
+    background:url('../img/bg-t.png') #111827;
+}
+
+
+
